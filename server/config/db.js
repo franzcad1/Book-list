@@ -1,3 +1,6 @@
+/*
+COMP229-F2020-MidTerm-301098663, Franz Cadiente, 301098663, 10/26/2020
+*/
 module.exports = {
   //local MongoDB deployment ->
   //"URI": "mongodb://localhost/books229"

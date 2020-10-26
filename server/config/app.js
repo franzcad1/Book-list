@@ -1,3 +1,6 @@
+/*
+COMP229-F2020-MidTerm-301098663, Franz Cadiente, 301098663, 10/26/2020
+*/
 // moddules for node and express
 let createError = require('http-errors');
 let express = require('express');

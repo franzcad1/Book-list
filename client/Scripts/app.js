@@ -1,3 +1,6 @@
+/*
+COMP229-F2020-MidTerm-301098663, Franz Cadiente, 301098663, 10/26/2020
+*/
 /* custom JS goes here */
 
 /* pagination code from http://www.bootply.com/lxa0FF9yhw */
@@ -108,7 +111,7 @@ $.fn.pageMe = function(opts){
   $(".btn-danger").click(function(event){
     if(!confirm("Are you sure?")) {
       event.preventDefault();
-      window.location.assign("/games");
+      location.href ="/books"
     }
   });
 
